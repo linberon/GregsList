@@ -1,0 +1,178 @@
+body {
+
+	width: 100%;
+
+	font-family: "Roboto";
+
+}
+
+nav {
+
+	padding: 10px;
+	
+	background-color: #e0e0e0;
+	
+}
+
+header {
+
+	font-size: 18px;
+
+	font-style: bold;
+
+	display: inline-block;
+
+	padding: 3px;
+
+}
+
+main {
+
+	padding: 30px 80px;
+
+}
+
+
+input, img {
+
+	display: inline-block;
+
+	height: 20px;
+
+	border-radius: 3px;
+
+	border: solid 1px #cccccc;
+
+	
+}
+
+
+input {
+
+	margin-top: 10px;
+
+	float:left;
+
+	padding: 3px 180px 3px 5px;
+
+}
+
+
+img {
+
+	margin-top: 10px;
+
+	margin-left: 5px;
+
+	padding: 3px 5px;
+
+}
+
+
+section {
+
+	font-size: 0px;
+
+	margin: 50px 0px 70px 0px;
+
+}
+
+.page {
+
+	font-size: 16px;
+
+	color: black;
+
+	border: solid 1px #cccccc;
+
+	padding: 10px 30px;
+
+}
+
+.next {
+
+border-radius: 0px 3px 3px 0px;
+
+}
+
+.prev {
+
+border-radius: 3px 0px 0px 3px ;
+
+}
+
+.pagination {
+
+	font-size: 16px;
+
+	padding: 10px 30px;
+
+	border-top: solid 1px #cccccc;
+
+	border-bottom: solid 1px #cccccc;
+}
+
+li {
+
+	list-style: none;
+
+	padding-bottom: 15px;
+}
+
+ul { 
+
+padding: 0px;
+
+} 
+
+
+
+.nav-links {
+
+	font-size: 18px;
+
+	color: purple;
+
+	display: inline-block;
+
+	float: right;
+
+	padding: 3px;
+}
+
+
+a {
+
+	text-decoration: none;
+
+}
+
+a:hover{
+
+	text-decoration: underline;
+
+}
+
+.date {
+
+	color: grey;
+
+}
+
+.result {
+
+	padding-left: 10px;
+
+	padding-right: 10px;
+
+	font-weight: bold;
+
+	color: blue;
+
+	box-sizing: border-box;
+}
+
+.location {
+
+	color: grey;
+}
